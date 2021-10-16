@@ -1,0 +1,21 @@
+{
+  "environment": "web",
+  "format": "html",
+  "prefix": "https://storage.googleapis.com",
+  "updated": "2021-10-16T06:59:00Z",
+  "id": "vscode-live",
+  "duration": 0,
+  "title": "VScodeをVisual Studio LiveShareで共同編集してみよう",
+  "authors": "SORACOM, INC.",
+  "summary": "CLaaT を利用したコンテンツ作成のテンプレートとして利用可能なファイルです。",
+  "source": "1juOX_9ZJeADR5VMNiO5DkXD0DHAnde4vWi8PWftX8xU",
+  "theme": "100-basic",
+  "status": [
+    "published"
+  ],
+  "category": [
+    "100-Basic"
+  ],
+  "tags": [],
+  "url": "vscode-live"
+}

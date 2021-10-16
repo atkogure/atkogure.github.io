@@ -1,0 +1,21 @@
+{
+  "environment": "web",
+  "format": "html",
+  "prefix": "https://storage.googleapis.com",
+  "updated": "2021-10-16T06:17:05Z",
+  "id": "claat-template-100",
+  "duration": 35,
+  "title": "小暮バージョン",
+  "authors": "SORACOM, INC.",
+  "summary": "CLaaT を利用したコンテンツ作成のテンプレートとして利用可能なファイルです。",
+  "source": "1WOXsdyu0XEnvA2vIgBO1_tceGWjYzAZUqYS8nEJf4Co",
+  "theme": "100-basic",
+  "status": [
+    "published"
+  ],
+  "category": [
+    "100-Basic"
+  ],
+  "tags": [],
+  "url": "claat-template-100"
+}
